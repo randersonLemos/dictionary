@@ -42,6 +42,12 @@ class Keywords:
     def bhp(): return '*BHP'
 
     @staticmethod
+    def gor(): return '*GOR'
+
+    @staticmethod
+    def wcut(): return '*WCUT'
+
+    @staticmethod
     def geoa(): return '*GEOA'
 
     @staticmethod
