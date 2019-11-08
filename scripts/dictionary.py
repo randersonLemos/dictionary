@@ -81,6 +81,9 @@ class Keywords:
     def timsim(): return '*TIMSIM'
 
     @staticmethod
+    def sto_rp(): return '*STO-RP'
+
+    @staticmethod
     def flow_to(): return '*FLOW-TO'
 
     @staticmethod
