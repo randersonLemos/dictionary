@@ -136,10 +136,3 @@ class Keywords:
 
     @staticmethod
     def clumpsetting(): return '*CLUMPSETTING'
-
-class Words:
-    @staticmethod
-    def time(): return "'TIME'"
-
-    @staticmethod
-    def surface(): return "'SURFACE'"
