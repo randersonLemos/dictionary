@@ -6,7 +6,7 @@ class Well_Keys:
     def date(): return 'Date'
 
     @staticmethod
-    def well_state(): return 'Well state'
+    def well_state(): return 'Well State'
 
     @staticmethod
     def oil_rate_sc(): return 'Oil Rate SC'
